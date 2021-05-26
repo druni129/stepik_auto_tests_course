@@ -1,0 +1,24 @@
+https://stepik.org/lesson/25969/step/2
+
+
+Создадим виртуальное окружение:
+
+python -m venv selenium_env
+
+активация selenium_env\Scripts\activate.bat
+деактивация selenium_env\Scripts\deactivate.bat
+
+c:\course\lesson
+
+
+
+
+http://htmlbook.ru/html/attr/title
+
+Для практики выбора селекторов - https://flukeout.github.io/ (интерактивная - обучающая игра "выбери анимированную фигурку")
+
+https://devhints.io/xpath - Xpath cheatsheet полезно
+
+https://habr.com/ru/post/250975/ - поиск элементов разными способами.
+
+https://selenium-python.com/locating-web-elements
